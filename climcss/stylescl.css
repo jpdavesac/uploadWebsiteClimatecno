@@ -1,0 +1,222 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color:white;
+}
+
+.container{
+    display: inline-flex;
+}
+
+.logo{
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 20px;
+        
+}
+
+#ctt{
+    margin-left: 160px;
+    line-height: 30px;
+}
+
+#end{
+    margin-left: 30px;
+    line-height: 30px;
+}
+
+.container h3{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(17, 17, 62);
+}
+
+.container p{
+    font-family: sans-serif;
+}
+
+hr{
+    max-width: 80%;
+    margin-left: 10%;
+}
+
+.secoes{
+    display: inline-flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    font-size: 12px;
+    color: white;
+}
+
+#sn{
+    margin-left: 150px;
+    border: 3px solid rgb(17, 17, 62);
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(17,17,62);
+}
+
+#se{
+    margin-left: 30px;
+    border: 3px solid rgb(17, 17, 62);
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(17,17,62);
+}
+
+#gf{
+    margin-left: 30px;
+    border: 3px solid rgb(17, 17, 62);
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(17,17,62);
+}
+
+.tit{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(17, 17, 62);
+    padding-bottom: 20px;
+    text-decoration: rgb(17, 17, 62) underline;
+}
+
+.aboutus p{
+    font-family: sans-serif;
+    text-align: justify;
+    margin: auto;
+    max-width: 60%;
+    line-height: 25px;
+    text-indent: 40px;
+    font-size: 17px;
+}
+
+.list{
+    margin: auto;
+}
+
+li{
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 400px;
+    text-decoration: black underline;
+}
+
+.imgli{
+    margin-left: 420px;
+    width: 500px;
+}
+
+#rp{
+    width: 400px;
+    height: 570px;
+    margin-left: 475px;
+}
+
+
+.vert{
+    width: 200px;
+    border: 6px solid rgb(17, 17, 62);
+}
+
+.hor{
+    width: 400px;
+    border: 6px solid rgb(17, 17, 62);
+    margin-bottom: 60px;
+}
+
+#g1{
+    margin-left: 40px;
+    
+    margin-bottom: 40px;
+}
+
+#g3{
+    margin-bottom: 75px;
+}
+
+#g5{
+    margin-left: 40px;
+}
+
+#g9{
+    margin-left: 185px;
+    margin-right: 40px;
+    margin-bottom: 90px;
+}
+
+
+footer{
+    background-color: rgb(17, 17, 62);
+    max-width: 100%;
+    height: 300px;
+    color: white;
+}
+
+.info{
+    display: inline-flex;
+}
+
+.rs{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.rs li{
+    margin-left: 40px;
+    margin-top: 20px;
+    display: block;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    list-style-image: url('../imgsite/Insta.png');
+}
+
+.remail{
+    margin-top: 20px;
+    margin-left: 130px;
+}
+
+.local{
+    margin-top: 20px;
+    margin-left: 170px;
+}
+
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+input[type="submit"]{
+    color: white;
+    background-color: gray;
+    font-weight: bold;
+    cursor: pointer;
+    width: 60px;
+}
+
+
+.local img{
+    width: 400px;
+    margin-right: 50px;
+}
+
+footer h2{
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
